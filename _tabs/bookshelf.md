@@ -2,7 +2,7 @@
 layout: page
 title: Bookshelf
 icon: fa fa-bookshelf
-order: 2
+order: 4
 ---
 
 Books that have influenced my professional growth and I recommend for other SRE's to read.

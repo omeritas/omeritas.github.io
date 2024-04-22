@@ -2,17 +2,17 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 title: About Me
-order: 1
+order: 2
 ---
 
 # Ömer I. Tas  (Amsterdam, NL)
 
 ## Site Reliability Engineer
 
-I'm Ömer (24), a dedicated and self-taught Site Reliability Engineer with a focus on event-driven and distributed systems. My expertise lies in designing, managing, troubleshooting and configuring a comprehensive set of technologies, including **Kubernetes**, **Apache Kafka**, **Spark** and **Hadoop**.
+I'm Ömer (24), a dedicated and self-taught Site Reliability Engineer with a focus on event-driven and distributed systems. My expertise lies in designing, managing, troubleshooting and configuring a comprehensive set of technologies, including **Kubernetes**, **Apache Kafka**, **Spark**..
 
 
-In my technical blog I will mostly focus on this set of technologies. I have worked for several big companies and organisations, such as: **Conclusion, Eneco, Terberg Group** and the **Dutch government**.
+In my technical blog I will mostly focus on this set of technologies. I have worked for several big companies and organisations, such as: **Conclusion, Eneco and the **Dutch government**.
 
 ### My Approach & Credentials
 

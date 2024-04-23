@@ -5,14 +5,14 @@ title: About Me
 order: 2
 ---
 
-# Ömer I. Tas  (Amsterdam, NL)
+# Ömer I. Tas  
 
 ## Site Reliability Engineer
 
-I'm Ömer (24), a dedicated and self-taught Site Reliability Engineer with a focus on event-driven and distributed systems. My expertise lies in designing, managing, troubleshooting and configuring a comprehensive set of technologies, including **Kubernetes**, **Apache Kafka**, **Spark**..
+I'm Ömer (24, Netherlands), a dedicated and self-taught Site Reliability Engineer with a focus on event-driven and distributed systems, such as **Kubernetes** and **Apache Kafka**.
 
 
-In my technical blog I will mostly focus on this set of technologies. I have worked for several big companies and organisations, such as: **Conclusion, Eneco and the **Dutch government**.
+In my technical blog I will mostly focus on this set of technologies. I have worked for several big companies and organisations, such as: **Conclusion, Eneco** and the **Dutch government**.
 
 ### My Approach & Credentials
 
@@ -23,7 +23,7 @@ My commitment to continuous learning is demonstrated through regular engagement 
 
 ### My Hobbies
 
-In my free time, I enjoy sports such as weightlifting, swimming, and playing padel. I also like to cook and read (non-fiction). While I no longer watch much TV or play video games (very occasionally), I hold a special appreciation for games like Civilization, Crusader Kings, OSRS and of TV series such as Succession and Better Call Saul. I regularly play with technologies on my self-hosted k8s cluster.
+In my free time, I enjoy sports such as weightlifting, swimming, and playing padel. I also like to cook and read (non-fiction). While I no longer watch much TV or play video games (very occasionally), I hold a special appreciation for strategy/fighting games and of TV series such as Succession and Better Call Saul. I regularly play with technologies on my self-hosted k8s cluster.
 
 ### Let's Connect
 

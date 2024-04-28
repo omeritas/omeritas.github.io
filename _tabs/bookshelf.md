@@ -8,7 +8,7 @@ order: 4
 Books that have influenced my professional growth and I recommend for other SRE's to read.
 
 #### SRE
-* **Site Reliability Engineering** by Betsy Beyer et al.**
+* **Site Reliability Engineering** by Betsy Beyer et al.
 
 #### Kubernetes
 * **Operating OpenShift** by Rick Rocow & Manual Dewald

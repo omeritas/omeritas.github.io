@@ -9,10 +9,10 @@ order: 2
 
 ## Site Reliability Engineer
 
-I'm Ömer (24, Netherlands), a dedicated and self-taught Site Reliability Engineer with a focus on event-driven and distributed systems, such as **Kubernetes** and **Apache Kafka**.
+I'm Ömer (24, Netherlands), a dedicated and self-taught Site Reliability Engineer with a focus on managing and programming **Kubernetes** and other distributed systems, such as **Apache Kafka**. 
 
 
-In my technical blog I will mostly focus on this set of technologies. I have worked for several big companies and organisations, such as: **Conclusion, Eneco** and the **Dutch government**.
+In my technical blog I will mostly focus on this set of technologies.  
 
 ### My Approach 
 

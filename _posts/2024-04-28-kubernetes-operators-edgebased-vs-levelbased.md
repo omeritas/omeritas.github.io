@@ -5,7 +5,7 @@ date: 2024-04-28 15:14:00 +/-TTTT
 
 When creating a Kubernetes controller or operator you have to decide between two main strategies: level-based or edge-based. In this blog I will shortly explain the difference between the two.
 
-![Level-based vs. Edge-based](https://prod-files-secure.s3.us-west-2.amazonaws.com/cab9acad-fdea-44a2-8213-362129e08ba5/75d0e87d-1eac-4608-8b92-6ebe89343173/Level-based_vs._Edge-based.png)
+![Kubernetes Operators - Level-based vs Edge-based - omertas.nl](/assets/img/level-based-vs-edge-based-operators-omertas.nl)
 
 ## Level-based operators
 

@@ -14,7 +14,7 @@ I'm Ömer (24, Netherlands), a dedicated and self-taught Site Reliability Engine
 
 In my technical blog I will mostly focus on this set of technologies. I have worked for several big companies and organisations, such as: **Conclusion, Eneco** and the **Dutch government**.
 
-### My Approach & Credentials
+### My Approach 
 
 My commitment to continuous learning is demonstrated through regular engagement with technical literature, blogs, hands-on experimentation, and attaining certifications and titles, such as: 
 - **Red Hat Certified OpenShift Architect** (RHCOA, 8 OpenShift Certifications)

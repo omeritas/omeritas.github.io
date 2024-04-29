@@ -5,7 +5,7 @@ icon: fa fa-bookshelf
 order: 4
 ---
 
-Books that have influenced my professional growth and I recommend for other SRE's to read.
+A collection of the titles that influence my growth as SRE.
 
 #### SRE
 * **Site Reliability Engineering** by Betsy Beyer et al.
@@ -13,10 +13,12 @@ Books that have influenced my professional growth and I recommend for other SRE'
 #### Kubernetes
 * **Operating OpenShift** by Rick Rocow & Manual Dewald
 * **Kubernetes Operators** by Jason Dobies & Joshua Wood
-* **The Kubernetes Operator Framework Book** by Michael Dame
+* **Programming Kubernetes**  by Michael Hausenblas & Stefan Schimanski *
 
 #### Data
-* **Prometheus Up & Running by Julien Pivotto & Brian Brazil**
+* **Prometheus Up & Running** by Julien Pivotto & Brian Brazil *
+* **Patterns of Distributed systems** by Unmesh Joshi *
+* **Designing Event-Driven Systems: Patterns for Streaming Services w/ Apache Kafka** by Ben Stopford *
 
 #### Linux
 * **Linux Device Drivers** by Jonathan Corbet

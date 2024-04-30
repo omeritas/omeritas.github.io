@@ -17,13 +17,12 @@ In my technical blog I will mostly focus on this set of technologies.
 ### My Approach 
 
 My commitment to continuous learning is demonstrated through regular engagement with technical literature, blogs, hands-on experimentation, and attaining certifications and titles, such as: 
-- **Red Hat Certified OpenShift Architect** (RHCOA, 8 OpenShift Certifications)
-- **Red Hat Certified Architect in Infrastructure level VI** (RHCA VI, 10+ Red Hat Certifications)
+- **Red Hat Certified Architect in Infrastructure III** (RHCA, 5+ OpenShift certifications)
 - **Certified Kubernetes Administrator, Developer and Security Specialist** (CKA, CKAD, CKS) 
 
 ### My Hobbies
 
-In my free time, I enjoy sports such as weightlifting, swimming, and playing padel. I also like to cook and read (non-fiction). While I no longer watch much TV or play video games (very occasionally), I hold a special appreciation for strategy/fighting games and of TV series such as Succession and Better Call Saul. I regularly play with technologies on my self-hosted k8s cluster.
+In my free time, I enjoy sports such as weightlifting, swimming, and playing padel. I also like to cook and read (non-fiction). While I no longer watch much TV or play video games, I hold a special appreciation for strategy/fighting games and of TV series such as Succession and Better Call Saul. 
 
 ### Let's Connect
 

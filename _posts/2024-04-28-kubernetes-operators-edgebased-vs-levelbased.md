@@ -1,11 +1,9 @@
 ---
-title: "Kubernetes Operators: Level-based vs Edge-based"
+title: "Kubernetes Operators: Level-based vs. Edge-based"
 date: 2024-04-28 15:14:00 +/-TTTT
 ---
 
 When creating a Kubernetes controller or operator you have to decide between two forms of reconciliation logic: level-based or edge-based. In this blog I will shortly explain the difference between the two.
-
-![Kubernetes Operators - Level-based vs Edge-based - omertas.nl](/assets/img/level-based-vs-edge-based-operators-omertas.nl)
 
 ## Level-based operators
 These operators constantly monitor the application it manages. They continually check the current state of an application against what it should be and make any necessary adjustments. This makes the application it manages more resilient to failures, since it ensures that the system remains in the desired state. 

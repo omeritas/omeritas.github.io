@@ -1,5 +1,5 @@
 ---
-title: "Kubernetes Logic: Level-based vs. Edge-based"
+title: "Kubernetes Reconciliation and Triggers: Edge vs. Level"
 date: 2024-04-28 15:14:00 +/-TTTT
 ---
 
@@ -41,4 +41,4 @@ The problem with edge-triggered systems, however, is that it is less resilient a
 4. You instruct that you want to delete 3 replicas (3-3 = 0 pods running).
 5. You now have 0 pods running, instead of the desired 2.
 
-Level-triggered reconciliation would work better here. Then the controller would not treat each instruction as an isolated action. Instead, it constantly compares the current number of replica pods against your desired end state of 2 replicas. If you decide to create an edge-based operator, make sure you have implemented proper error handling and resync mechanisms..
+Level-driven reconciliation would work better here. Then the controller would not treat each instruction as an isolated action. Instead, it constantly compares the current number of replica pods against your desired end state of 2 replicas. The ReplicaSet controller uses this hybrid approach. If you decide to create a fully edge-based operator, make sure you have implemented proper error handling and resync mechanisms.

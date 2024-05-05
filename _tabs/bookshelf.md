@@ -17,8 +17,6 @@ A collection of the titles that influence my growth as SRE.
 
 #### Data
 * **Prometheus Up & Running** by Julien Pivotto & Brian Brazil *
-* **Patterns of Distributed Systems** by Unmesh Joshi *
-* **Designing Event-Driven Systems: Patterns for Streaming Services w/ Apache Kafka** by Ben Stopford *
 
 #### Linux
 * **Linux Device Drivers** by Jonathan Corbet

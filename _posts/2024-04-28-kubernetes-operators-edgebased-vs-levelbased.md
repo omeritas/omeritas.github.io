@@ -17,7 +17,7 @@ Example: Prometheus Operator
 2. The operator continuously monitors the actual state of these resources and compares it to the desired state specified by this user. 
 3. If this is not the case, the operator will intervene to bring it back to the desired state (this concept is called **reconciliation loop**).
 
-It is well-suited for complex environments where stability is crucial, even at the cost of increased resource usage. During errors and crashes the operator will recover the applications by reapplying the desired state (**self-healing**).
+It is often used when stability is crucial, even at the cost of increased resource usage. During errors and crashes the operator will recover the applications by reapplying the desired state (**self-healing**).
 
 ## Edge-based Trigger and Reconciliation
 
@@ -34,6 +34,8 @@ In this case the operator will only intervene (adjust the number of pods) during
 
 This approach is ideal for environments where performance and resource efficiency are priorities, especially if changes are infrequent but require rapid responses when they occur. Edge-based operators can respond quicker to changes, because it immediately responds to specific events and triggers, instead of reconciling the entire state.
 
+## Hybrid Approach
+
 The problem with edge-triggered systems, however, is that it is less resilient and can result in wrong outcomes. Network issues, errors and unexpected events can obscure the true state of the system. Here is an example of how it could go wrong in an edge-triggered system:
 1. You have 2 pod replicas running.
 2. You instruct that you want to add 3 more replicas (2+3 = 5 pods running).
@@ -42,3 +44,8 @@ The problem with edge-triggered systems, however, is that it is less resilient a
 5. You now have 0 pods running, instead of the desired 2.
 
 Level-driven reconciliation would work better here. Then the controller would not treat each instruction as an isolated action. Instead, it constantly compares the current number of replica pods against your desired end state of 2 replicas. The ReplicaSet controller uses this hybrid approach. If you decide to create a fully edge-based operator, make sure you have implemented proper error handling and resync mechanisms.
+
+If you want to read more about this, check out:
+- https://dominik-tornow.medium.com/the-mechanics-of-kubernetes-ac8112eaa302
+- https://hackernoon.com/level-triggering-and-reconciliation-in-kubernetes-1f17fe30333d
+- https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/

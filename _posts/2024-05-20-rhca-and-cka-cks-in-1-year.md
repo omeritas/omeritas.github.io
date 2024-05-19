@@ -9,7 +9,7 @@ I decided to start this learning journey by obtaining the relevant certification
 
 In this blog I will explain why I chose these certifications and evaluate if the time and effort spent were worthwhile.
 
-# Why I chose these certifications
+# Why I Chose These Certifications
 I wanted to specialize in Kubernetes and had an interest in Linux and Ansible. There are two primary organizations that offer industry-recognized certifications in these subjects: Red Hat and CNCF (Cloud Native Computing Foundation). 
 
 Not only were they industry-recognized, but they had 100% hands-on exams. I like practical exams. You get hands-on experience and have to prove that you know the material with a few hours time. For this reason they're also harder to obtain. A former Red Hat employee told me that the entry-level certification of Red Hat, RHCSA, has a success rate of 40% for the first attempt and 70% for the second attempt. Despite the exam being 3 hours long, most people struggle to finish the exam within 3 hours during the first attempt. I was lucky to pass the first time. 

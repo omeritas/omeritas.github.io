@@ -76,4 +76,5 @@ memory_usage 22.00
 
 Now you have succesfully created a custom Prometheus exporter using Bash.
 
-
+To learn more about Prometheus and exporters, check out:
+- https://www.oreilly.com/library/view/prometheus-up/9781098131135/

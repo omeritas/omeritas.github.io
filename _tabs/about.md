@@ -11,8 +11,7 @@ order: 2
 
 I'm Ömer (24, Netherlands), a dedicated and self-taught Site Reliability Engineer with a focus on managing and programming Kubernetes.
 
-
-In my technical blog I will mostly focus on this set of technologies.  
+This focus will also be reflected in my technical blog.
 
 ### My Approach 
 

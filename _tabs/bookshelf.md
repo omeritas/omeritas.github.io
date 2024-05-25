@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Bookshelf
-icon: fa fa-bookshelf
-order: 4
+icon: fas fa-book
 ---
 
 A collection of the titles that influence my growth as SRE.

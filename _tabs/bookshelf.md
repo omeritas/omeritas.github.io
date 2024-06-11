@@ -8,6 +8,7 @@ A collection of the titles that influence my growth as SRE.
 
 #### SRE
 * **Site Reliability Engineering** by Betsy Beyer et al.
+* **The Site Reliability Workbook** by Betsy Beyer et al.
 
 #### Kubernetes
 * **Operating OpenShift** by Rick Rocow & Manual Dewald

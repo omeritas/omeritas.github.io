@@ -167,6 +167,11 @@ defaults:
     values:
       swcache: true
 
+tabs:
+  - title: "Bookshelf"
+    url: "/bookshelf/"
+    icon: "fas fa-book"
+
 sass:
   style: compressed
 
